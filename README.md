@@ -20,7 +20,7 @@ Se você estiver interessado(a) em se conectar com um profissional em dados apai
 
 ## 🐍 Gráfico de Contribuições
 
-![Snake animation](https://github.com/Gsteixeira56/Gsteixeira56/blob/output/snake.svg)
+![Generate Snake](https://github.com/Gsteixeira56/Gsteixeira56/blob/output/snake.svg)
 
 
 ## 🔧 Tecnologias & Ferramentas
