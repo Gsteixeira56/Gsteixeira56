@@ -18,10 +18,6 @@ Se você estiver interessado(a) em se conectar com um profissional em dados apai
 ![Gsteixeira56's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gsteixeira56&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsteixeira56&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🐍 Gráfico de Contribuições
-
-![Snake animation](https://github.com/Gsteixeira56/Gsteixeira56/blob/output/snake.svg)
-
 ## 🔧 Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
